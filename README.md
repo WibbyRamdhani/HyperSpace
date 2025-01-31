@@ -83,5 +83,5 @@ aios-cli hive points
 
 Done, lanjut ngopi
 
-# Rangkuman dari repo https://github.com/choir94/Hyperspace/tree/main?tab=readme-ov-file & https://github.com/ranggabatok/HyperSpace/blob/main/README.md
+* Rangkuman dari repo https://github.com/choir94/Hyperspace/tree/main?tab=readme-ov-file & https://github.com/ranggabatok/HyperSpace/blob/main/README.md
 * Khusus yang gabisa instal menggunakan VPS dari contabo
